@@ -1,6 +1,6 @@
 # Hi there, I'm Antonio Gabriel (DevDogZ) 👋
 
-🎓 **Computer Science Student** @IFSP  
+🎓 **Computer Science Student** @ IFSP  
 💻 **Fullstack Developer** focused on Java, Spring Boot & Modern Web Technologies.
 
 ---

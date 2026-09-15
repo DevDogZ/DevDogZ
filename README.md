@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Antonio Gabriel (DevDogZ) 👋
 
-<!--
-**DevDogZ/DevDogZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** @ IFSP  
+💻 **Fullstack Developer** focused on Java, Spring Boot & Modern Web Technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, TypeScript, JavaScript, Python, C
+- **Backend:** Spring Boot, REST APIs, SQL (MySQL)
+- **Concepts & Engineering:** Web Architecture, Software Engineering, UML, UWE
+
+---
+
+### 📌 Highlights
+- 📄 Published Paper: *"UML na Engenharia de Software para Web"* (MCT/IFSP 2025)
+
+---
+
+### 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eusousouzasgabriel)
